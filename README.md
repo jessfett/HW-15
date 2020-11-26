@@ -13,6 +13,6 @@ Build an interactive dashboard to explore the Belly Button Biodiversity Dataset.
 ## Dashboard
 
 The dashboard includes an interactive bar chart that can be changed by selecting different Test Subjects. See examples below:
-[barchart](img="https://github.com/jessfett/HW-15/blob/main/Images/bar.png?raw=true").  
+![barchart](https://github.com/jessfett/HW-15/blob/main/Images/bar.png?raw=true).  
 
 [Javascript Code](https://github.com/jessfett/HW15/blob/main/StarterCode/static/js/app.js)
