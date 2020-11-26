@@ -1,10 +1,9 @@
-// Use D3 fetch to read the JSON file
+// Use D3 read the Json file
 d3.json("../data/samples.json").then((givenData) => {
 
 	console.log(givenData);
 
 	var data = givenData;
-
 	var names = data.names;
 
 	names.forEach((name) => {
@@ -87,8 +86,7 @@ d3.json("../data/samples.json").then((givenData) => {
 
 		// Key-Value Pairs
 		Object.entries(demoDefault).forEach(
-			([key, value]) => d3.select("#sample-metadata")
-													.append("p").text(`${key.toUpperCase()}: ${value}`));
+			([key, value]) => d3.select("#sample-metadata").append("p").text(`${key.toUpperCase()}: ${value}`));
 
 	}
 
