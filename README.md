@@ -9,6 +9,8 @@ Build an interactive dashboard to explore the Belly Button Biodiversity Dataset.
 - Interactive Bubble Chart
 - Summary of Selected Test Subject Data
 
+## Codes
+The coding is predominantely done via an [app.js](https://github.com/jessfett/HW15/blob/main/StarterCode/static/js/app.js) that is embedded into the [index.html](https://github.com/jessfett/HW-15/blob/main/index.html). Click the embedded links to go to the file. 
 
 ## Dashboard
 
@@ -25,4 +27,3 @@ The overall dashboard includes a title, a dropdown menu, a summary of test subje
 
 
 
-[Javascript Code](https://github.com/jessfett/HW15/blob/main/StarterCode/static/js/app.js)
