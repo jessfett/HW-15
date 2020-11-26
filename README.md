@@ -14,7 +14,7 @@ Build an interactive dashboard to explore the Belly Button Biodiversity Dataset.
 - Summary of Selected Test Subject Data
 
 ## Codes
-The coding is done via an [app.js](https://github.com/jessfett/HW15/blob/main/StarterCode/static/js/app.js) that is embedded into the [index.html](https://github.com/jessfett/HW-15/blob/main/index.html) that uses data with a .json file. Click the embedded links to go to the files. 
+The coding is done via an [app.js](https://github.com/jessfett/HW15/blob/main/StarterCode/static/js/app.js) that is embedded into the [index.html](https://github.com/jessfett/HW-15/blob/main/index.html). The data is given via a .json file. Click the embedded links to go to the files. 
 
 </br>
 
