@@ -1,6 +1,8 @@
 # Belly Button Biodiversity
 </br>
+
 ![bacteria](https://github.com/jessfett/HW-15/blob/main/Images/bacteria.jpg?raw=true)
+
 </br>
 ## Task
 Build an interactive dashboard to explore the Belly Button Biodiversity Dataset. The dataset provided revealed that a small handful of microbial species (OTUs) were present in more than 70% of the population. 
