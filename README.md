@@ -18,7 +18,7 @@ The coding is done via an [app.js](https://github.com/jessfett/HW15/blob/main/St
 
 </br></br>
 
-The interactive dashboard is deployed via GitHub Pages and can be located here.
+The interactive dashboard is deployed via GitHub Pages and can be located [here](https://jessfett.github.io/HW-15/).
 
 ## Dashboard
 
